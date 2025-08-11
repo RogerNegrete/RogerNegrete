@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1JxE/giphy.gif" width="100" />
-</div>
-
 <h1 align="center">
   ¡Hola! Soy Roger Negrete <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -63,14 +59,3 @@ Aquí puedes ver mi actividad y los lenguajes que más utilizo.
   <img src="https://github-readme-stats.vercel.app/api?username=RogerNegrete&show_icons=true&theme=dracula&hide_border=true&border_radius=10&locale=es" alt="Estadísticas de GitHub de Roger" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerNegrete&layout=compact&theme=dracula&hide_border=true&border_radius=10&locale=es" alt="Lenguajes más usados" />
 </p>
-
----
-
-### 🎓 Educación
-
--   **Ingeniería en Computación**
-    -   *Universidad Politécnica Salesiana*
-    -   (Cursando, finalización esperada en 2025)
--   **Título de Bachiller**
-    -   *Colegio UE Bautista Charles Spurgeon-Pifo*
-    -   (Finalizado en 2022)

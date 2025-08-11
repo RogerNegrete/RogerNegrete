@@ -57,10 +57,3 @@ Aquí están las tecnologías con las que he trabajado:
   <img src="https://github-readme-stats.vercel.app/api?username=RogerNegrete&show_icons=true&theme=dracula&hide_border=true&border_radius=10&locale=es" alt="Estadísticas de GitHub de Roger" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerNegrete&layout=compact&theme=dracula&hide_border=true&border_radius=10&locale=es" alt="Lenguajes más usados" />
 </p>
-
----
-
-### 📈 Mi Actividad en los Últimos 365 Días
-<p align="center">
-  <img src="https://ghchart.rshah.org/RogerNegrete" alt="Gráfico de Contribuciones de Roger" />
-</p>
